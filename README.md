@@ -1,2 +1,2 @@
 # cloudsql-proxy-installer
-Shit that doesn't exist and really should .... long before now
+Quick and dirty Linux install for the Google CloudSQL Proxy
